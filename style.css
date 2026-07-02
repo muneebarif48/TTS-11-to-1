@@ -1,15 +1,13 @@
 body{
     margin: 0;
-    font-family: 'Times New Roman', Times, serif;
 }
 .hero{
     height: 100vh;
     display: flex;
     padding: 20px;
 }
-].hero h1 {
+.hero h1 { 
     font-weight: 800;
-
 }
 
 
